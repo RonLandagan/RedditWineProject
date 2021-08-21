@@ -1,0 +1,27 @@
+,Wine Name,Classification,Flavors,Body,Red Fruit,Black Fruit,Floral,Herbal,Pepper,Earth,Baking Spice,Leather,Astringency,Citrus Fruit,Stone Fruit,Tropical Fruit,Honey,Cream,Minerality,Bitter,Count
+0,Albarino,White,"Lemon Zest, Grapefruit, Honeydew, Nectarine, Saline ",2.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,0.0,1.0,1.0,4.0,0.0,1
+1,Barbera,Red,"Tart Cherry, Licorice, Blackberry, Dried Herbs, Black Pepper ",6.0,10.0,4.0,2.0,10.0,6.0,10.0,6.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+2,Cabernet Franc,Red,"Strawberry, Raspberry, Bell Pepper, Crushed Gravel, Chili Pepper ",3.0,5.0,0.0,2.0,5.0,2.0,5.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+3,Cabernet Sauvignon,Red,"Black Cherry, Black Currant, Cedar, Baking Spices, Graphite ",50.0,30.0,50.0,20.0,40.0,30.0,30.0,50.0,30.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10
+4,Carmenere,Red,"Raspberry, Bell Pepper, Black Plum, Paprika, Vanilla ",3.0,5.0,3.0,4.0,5.0,4.0,2.0,3.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+5,Chablis,White,"Quince, Starfruit, Lime Peel, White Flowers, Chalk ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+6,Champagne,Sparkling,"Citrus, Yellow Apple, Cream, Almond, Toast ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32
+7,Chardonnay,White,"Yellow Apple, Starfruit, Pineapple, Vanilla, Butter ",40.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,40.0,24.0,0.0,40.0,24.0,0.0,8
+8,Chenin Blanc,White,"Quince, Yellow Apple, Pear, Chamomile, Honey ",6.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,10.0,4.0,2.0,4.0,6.0,2.0,2
+9,Gewurztraminer,White,"Lychee, Rose, Grapefruit, Tangerine, Ginger ",15.0,0.0,0.0,15.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,9.0,15.0,15.0,9.0,0.0,0.0,3
+10,Malbec,Red,"Red Plum, Blackberry, Vanilla, Sweet Tobacco, Cocoa ",12.0,6.0,15.0,9.0,6.0,6.0,9.0,12.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+11,Merlot,Red,"Cherry, Plum, Chocolate, Bay Leaf, Vanilla ",21.0,35.0,21.0,21.0,14.0,7.0,21.0,35.0,14.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+12,Monastrell,Red,"Blackberry, Black Pepper, Cocoa, Tobacco, Roasted Meat ",5.0,0.0,5.0,4.0,5.0,5.0,5.0,5.0,1.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+13,Montepulciano,Red,"Red Plum, Blackberry, Dried Thyme, Baking Spices, Mesquite ",4.0,4.0,2.0,2.0,4.0,4.0,3.0,1.0,3.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+14,Petite Sirah,Red,"Sugarplum, Blueberry, Dark Chocolate, Black Pepper, Black Tea ",5.0,0.0,5.0,2.0,3.0,2.0,5.0,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+15,Pinot Gris,White,"White Peach, Lemon Zest, Cantalope, Raw Almond, Crushed Gravel ",6.0,0.0,0.0,6.0,3.0,0.0,0.0,0.0,0.0,0.0,9.0,12.0,6.0,0.0,0.0,6.0,3.0,3
+16,Pinot Noir,Red,"Cherry, Raspberry, Mushroom, Clove, Hibiscus ",30.0,75.0,0.0,75.0,45.0,0.0,60.0,45.0,15.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+17,Prosecco,Sparkling,"Green Apple, Honeydew, Pear, Lager, Cream ",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+18,Riesling,White,"Lime, Green Apple, Beeswax, Jasmine, Petroleum ",57.0,0.0,0.0,57.0,19.0,0.0,0.0,0.0,0.0,0.0,95.0,76.0,38.0,76.0,0.0,57.0,0.0,19
+19,Sauvignon Blanc,White,"Gooseberry, Honeydew, Grapefruit, White Peach, Passion Fruit ",4.0,0.0,0.0,3.0,5.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,3.0,0.0,0.0,4.0,3.0,1
+20,Shiraz,Red,"Blueberry, Black Plum, Milk Chocolate, Tobacco, Green Peppercorn ",30.0,0.0,30.0,18.0,24.0,30.0,18.0,24.0,18.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6
+21,Syrah,Red,"Blueberry, Black Plum, Milk Chocolate, Tobacco, Green Peppercorn ",30.0,0.0,30.0,18.0,24.0,30.0,18.0,24.0,18.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6
+22,Tempranillo,Red,"Cherry, Dried Fig, Cedar, Tobacco, Dill ",8.0,10.0,4.0,0.0,8.0,6.0,8.0,4.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+23,Vermentino,White,"Lime, Grapefruit, Green Apple, Almond, Daffodil ",4.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,1.0,1.0,1.0,3.0,5.0,1
+24,Viognier,White,"Tangerine, Peach, Mango, Honeysuckle, Rose ",5.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,4.0,3.0,5.0,1.0,2.0,1
+25,Zinfandel,Red,"Blackberry, Strawberry, Peach Preserves, Cinnamon, Sweet Tobacco ",8.0,8.0,8.0,0.0,0.0,10.0,2.0,8.0,4.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
